@@ -1,2 +1,2 @@
 # Age-Calculator-Application
-I am created an agecalculator application used python
+I created a simple agecalculator application in python
